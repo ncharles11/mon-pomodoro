@@ -395,7 +395,7 @@ This will apply Prettier formatting to all supported files.
 
 1. **Clone and install:**
    ```bash
-   git clone https://github.com/yourusername/mon-pomodoro.git
+   git clone https://github.com/ncharles11/mon-pomodoro.git
    cd mon-pomodoro
    npm install
    ```
@@ -505,8 +505,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For issues, questions, or feature requests:
 
-- **GitHub Issues** — [Report a bug or suggest a feature](https://github.com/yourusername/mon-pomodoro/issues)
-- **Discussions** — [Ask questions and share ideas](https://github.com/yourusername/mon-pomodoro/discussions)
+- **GitHub Issues** — [Report a bug or suggest a feature](https://github.com/ncharles11/mon-pomodoro/issues)
+- **Discussions** — [Ask questions and share ideas](https://github.com/ncharles11/mon-pomodoro/discussions)
 
 ---
 
