@@ -62,7 +62,7 @@ git --version     # Any recent version
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mon-pomodoro.git
+git clone https://github.com/ncharles11/mon-pomodoro.git
 cd mon-pomodoro
 ```
 
