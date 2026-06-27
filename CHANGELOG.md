@@ -1,3 +1,12 @@
+# Changelog
+
+## 1.0.0 (2026-06-27)
+
+
+### Features
+
+* add settings, activity tracker, stats graph, and custom sound upload ([a2fee46](https://github.com/ncharles11/mon-pomodoro/commit/a2fee462cfa3603cbf134c44fc2d530f23024bba))
+
 ## [1.1.0] - 2026-06-27
 
 ### Added
